@@ -1,0 +1,1 @@
+51 15 * * * root sudo /./etc/ssmtp/correo0off.sh

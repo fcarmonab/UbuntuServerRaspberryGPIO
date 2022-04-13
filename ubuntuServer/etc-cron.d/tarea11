@@ -1,0 +1,1 @@
+54 15 * * * root sudo /./etc/ssmtp/correo22on.sh
